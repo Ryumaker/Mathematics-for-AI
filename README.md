@@ -2,21 +2,14 @@
 인하대 2021 인공지능을 위한 수학1 - Term Project
 
 ## Concept
-- CycleGAN을 활용한 Style Transfer
+- Generating webtoon images
+- Converting Human images to webtoon images
 
 **Idea**
 
 >Modeling
 
 - https://github.com/bryandlee/malnyun_faces - Sources
-
->>Style GAN
-
-- Folder "stylegan"
-
->>Cycle GAN
-
-- Folder "cyclegan"
 
 ## Prepare Data
 - Characters' Faces Cropping in NAVER Webtoon <여신강림>
@@ -39,3 +32,13 @@
 - resize.py - Resizing Asian Data 
 
 - https://afad-dataset.github.io/ - Sources
+
+## Style GAN
+- Folder "stylegan"
+
+- https://github.com/sangwoomo/FreezeD - Sources
+
+## Cycle GAN
+- Folder "cyclegan"
+
+- https://www.kaggle.com/adrianda/cyclegan-pytorch-style-transfer/notebook#Submission - Sources
