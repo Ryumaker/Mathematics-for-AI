@@ -2,7 +2,7 @@
 인하대 2021 인공지능을 위한 수학1 - Term Project
 
 ## Concept
-CycleGAN을 활용한  Transfer
+CycleGAN을 활용한 Style Transfer
 
 ## Data Preparation
 
