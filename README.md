@@ -5,6 +5,11 @@
 CycleGAN을 활용한 Style Transfer
 
 ## Data Preparation
+Need To Prepare
+
+- Characters' Faces Cropping in NAVER Webtoon <여신강림> 256 x 256 sizes
+
+- The Asian Face Age Dataset 256 x 256 sizes
 
 ## Upscaling
 https://github.com/yu45020/Waifu2x 
