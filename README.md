@@ -4,17 +4,21 @@
 ## Concept
 CycleGAN을 활용한 File Transfer
 
-## data preparing
+## Data Preparation
 
 ## Upscaling
 https://github.com/yu45020/Waifu2x 
 
-https://www.kaggle.com/adrianda/cyclegan-pytorch-style-transfer/data#Datasets-&-dataloaders - CycleGAN 관련 코드
+## Using CycleGAN
+https://www.kaggle.com/adrianda/cyclegan-pytorch-style-transfer/data#Datasets-&-dataloaders 
 
-https://github.com/nagadomi/lbpcascade_animeface - 얼굴 부분 Crop
+## Cropping Faces
+https://github.com/nagadomi/lbpcascade_animeface
   
-https://github.com/bryandlee/malnyun_faces - 생성모델 Create
+## Create Model
+https://github.com/bryandlee/malnyun_faces
 
-https://afad-dataset.github.io/ - The Asian Face Age Dataset
+## The Asian Face Age Dataset
+https://afad-dataset.github.io/
 
 ## Code 
