@@ -4,11 +4,19 @@
 ## Concept
 CycleGAN을 활용한 Style Transfer
 
-**Main Idea**
+**Idea**
 
 - Modeling
 
 https://github.com/bryandlee/malnyun_faces - Sources
+
+- Style GAN
+
+Folder "stylegan"
+
+- Cycle GAN
+
+Folder "cyclegan"
 
 ## Prepare Data
 - Characters' Faces Cropping in NAVER Webtoon <여신강림>
