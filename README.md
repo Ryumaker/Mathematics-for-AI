@@ -4,8 +4,10 @@
 ## Concept
 CycleGAN을 활용한 File Transfer
 
-## Sources
-https://github.com/yu45020/Waifu2x - Upscaling 관련 코드
+## data preparing
+
+## Upscaling
+https://github.com/yu45020/Waifu2x 
 
 https://www.kaggle.com/adrianda/cyclegan-pytorch-style-transfer/data#Datasets-&-dataloaders - CycleGAN 관련 코드
 
