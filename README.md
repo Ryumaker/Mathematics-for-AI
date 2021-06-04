@@ -5,7 +5,7 @@
 - Generating webtoon images
 - Converting Human images to webtoon images
 
-**Idea**
+>Idea
 
 - https://github.com/bryandlee/malnyun_faces - Sources
 
