@@ -6,15 +6,15 @@ CycleGAN을 활용한 Style Transfer
 
 **Idea**
 
-- Modeling
+>Modeling
 
 https://github.com/bryandlee/malnyun_faces - Sources
 
-- Style GAN
+>>Style GAN
 
 Folder "stylegan"
 
-- Cycle GAN
+>>Cycle GAN
 
 Folder "cyclegan"
 
