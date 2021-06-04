@@ -31,8 +31,3 @@ https://github.com/yu45020/Waifu2x - Sources
 resize.py - Resizing Asian Data 
 
 https://afad-dataset.github.io/ - Sources
-
-## The Asian Face Age Dataset
-resize.py - Resizing Asian Data 
-
-https://afad-dataset.github.io/ - Sources
