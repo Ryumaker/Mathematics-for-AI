@@ -7,8 +7,6 @@
 
 **Idea**
 
->Modeling
-
 - https://github.com/bryandlee/malnyun_faces - Sources
 
 ## Prepare Data
